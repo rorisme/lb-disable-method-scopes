@@ -1,4 +1,7 @@
 {
-  "name": "lb-disable-remote-scopes",
-  "version": "1.0"
+  "name": "lb-disable-method-scopes",
+  "version": "1.0.0",
+  "author": "Rijkaard Orismé <rijkaardorisme@gmail.com>",
+  "repository": "https://github.com/rorisme/lb-disable-method-scopes",
+  "licence": "MIT"
 }
