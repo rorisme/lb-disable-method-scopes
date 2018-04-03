@@ -1,6 +1,6 @@
 'use strict';
 
-const config = require('../../model-config');
+const config = require('../../server/model-config');
 
 const protos = [
   'prototype.__count__',
